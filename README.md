@@ -1,5 +1,7 @@
 # AI Safety Incident Log Service
 
+### Repo URL: https://github.com/Aryagithubk/Sparklehood_assignment.git
+
 ## Introduction
 AI Safety Incident Log Service is a backend API designed to log, retrieve, and manage hypothetical AI safety incidents for HumanChain.  
 It is built using Node.js, Express.js, and TypeScript, with MongoDB as the database.  
@@ -160,5 +162,7 @@ A Postman collection is provided to easily test the API endpoints.
 
 ## License
 This project is intended for educational use and evaluation purposes only.
+
+
 
 ---
